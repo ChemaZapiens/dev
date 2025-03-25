@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         YouTube - URL Playtime Keeper
 // @namespace    https://github.com/ChemaZapiens/dev/tree/main/random/userscript
-// @version      1.0
+// @version      01
 // @description  Updates the browser URL with the current timestamp every 30 seconds so playback resumes where you left if you restart the browser, 
 // @description  bookmark the video, use The Greater Discarder, etc.
 // @description  You can also quickly copy the URL or modify the time (&t=1m30s)
