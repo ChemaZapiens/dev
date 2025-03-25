@@ -1,9 +1,10 @@
 // ==UserScript==
 // @name            Coursera - Place transcript next to video
 // @description		  Places the video transcript next to the video, so you can watch both simultaneously
+// @version         01
 // @namespace		    https://github.com/ChemaZapiens/dev/tree/main/random/userscript
 // @author          Chema Zapiens
-// @version         01
+// @license      GPL 3.0
 // @include         https://*coursera.org/learn/*
 // @grant           GM_addStyle
 // ==/UserScript==
