@@ -6,6 +6,7 @@
 // @description  bookmark the video, use The Greater Discarder, etc.
 // @description  You can also quickly copy the URL or modify the time (&t=1m30s)
 // @author       Chema Zapiens
+// @license      GPL 3.0
 // @match        *://www.youtube.com/watch*
 // @grant        none
 // ==/UserScript==
